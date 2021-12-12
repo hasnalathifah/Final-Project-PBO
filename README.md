@@ -9,3 +9,10 @@ Nama Anggota Kelompok :
 Deskripsi singkat 
 Tic tac toe adalah sebuah permainan kertas dan pensil untuk dua pemain, X dan O, yang bergiliran menandai ruang dalam grid 3 × 3. Pemain yang berhasil menempatkan tiga tanda mereka di baris horisontal, vertikal, atau diagonal memenangkan pertandingan.
 Pada kesempatan kali ini, kelompok kamu mencoba membuat game Tic tac toe menggunakan teknologi swing dalam bahasa Java. Game ini mempunyai 3 level, easy, medium dan hard.
+
+
+
+
+Referensi: 
+1. http://www.infomugi.com/2016/04/game-tic-tac-toe.html
+2. https://github.com/Brijesh-kumar-sharma/Tic-Tac-Toe/blob/master/TicTacToeLearning/src/TicTacToeLearning.java
