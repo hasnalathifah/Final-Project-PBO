@@ -26,3 +26,4 @@ akan memenangkan pertandingan
 Referensi: 
 1. http://www.infomugi.com/2016/04/game-tic-tac-toe.html
 2. https://github.com/Brijesh-kumar-sharma/Tic-Tac-Toe/blob/master/TicTacToeLearning/src/TicTacToeLearning.java
+3. https://youtu.be/rA7tfvpkw0I
